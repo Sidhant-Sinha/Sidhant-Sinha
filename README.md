@@ -4,7 +4,7 @@
 
 <img align="right" alt="devops" width="400" src="https://xeo5.com/idl/wp-content/uploads/2021/08/DevOps-Steps-1.gif">
 
-<p align="left"> <a href="https://twitter.com/sidhantsid8887" target="blank"><img src="https://img.shields.io/twitter/follow/sidhantsid8887?logo=twitter&style=for-the-badge" alt="sidhantsid8887" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sidhantsinha_" target="blank"><img src="https://img.shields.io/twitter/follow/sidhantsinha_?logo=twitter&style=for-the-badge" alt="sidhantsinha_" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps, AWS, Azure, Gcp**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sidhantsid8887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidhantsid8887" height="30" width="40" /></a>
+<a href="https://twitter.com/sidhantsinha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidhantsinha_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sidhant-sinha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sidhant-sinha/" height="30" width="40" /></a>
 </p>
 
